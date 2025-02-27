@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795786586345",
+    "firebase_url": "https://mountainclimber-default-rtdb.firebaseio.com",
+    "project_id": "mountainclimber",
+    "storage_bucket": "mountainclimber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795786586345:android:56eae8855cfef6dda22878",
+        "android_client_info": {
+          "package_name": "com.example.mountain_climber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795786586345-iv7r2kvnel7u4ct9rvq787ik4hrdiegs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChxcEI-sWSLuda1eLMfOIt3MLYNAtxz4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795786586345-iv7r2kvnel7u4ct9rvq787ik4hrdiegs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
